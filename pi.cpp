@@ -20,7 +20,7 @@ double computePi(const int n){
 
 int main(){
   
-  int a = 100;
+  int a = 10000;
   cout << "Pi = " <<  computePi(a);
 
   return 0;
